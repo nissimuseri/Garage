@@ -1,0 +1,11 @@
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe.config
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.exe
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.ConsoleUI.pdb
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.csproj.CopyComplete
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.exe
+C:\Users\Eliad\לימודים\סי שארפ ודוט נט\B19 Ex03 EliadGavriel 205645377 NissimMuseri 206081697\B19 Ex03 NissimMuseri 206081697 EliadGavriel 205645377\Ex03.ConsoleUI\obj\Debug\Ex03.ConsoleUI.pdb
